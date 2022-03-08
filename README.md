@@ -1,5 +1,5 @@
 # CubeScrambler
-Gonna generate some good 3x3x3 cube scrambles for practice
+Gonna generate some good 3x3x3 cube scrambles for practice.
 
 # When am I gonna start working on this project?
 I'll probably start working on this project after 20th March 2022. THe progress will be quite slow though because of studies.
