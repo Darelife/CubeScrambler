@@ -9,3 +9,10 @@ I'll probably start working on this project after 20th March 2022. THe progress 
 * None of x's edges must be directly connected to x's centre.
 * None of x's edges must be directly connected to its other colours centre.
 * None of x's edges must be directly connected to the centre of the colour opposite to the other colour of the edge.
+* A lot of other checks
+* ...
+* Generate a list of scrambles.
+* Save them in a file.
+* Print a random scramble from the list.
+* Ask for the rating of the scramble.
+* Save the rating for a potential machine learning addaptation of the project.
